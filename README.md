@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shubham Purwar
 
-🚀 **Analytics Specialist Solution Architect at AWS**
+🚀 **Analytics Specialist Solution Architect at AWS| BigData Specialist | Cloud Enthusiast**
 
 A seasoned Analytics Specialist Solution Architect at AWS with 8+ years of
 technology experience, specializing in guiding APJC region's medium to large
@@ -12,6 +12,7 @@ strategies, facilitates cloud migrations, and optimizes analytics solutions whil
 maintaining operational excellence. As a certified AWS senior speaker, actively
 contributes to knowledge sharing through public events and workshops, with a
 strong focus on collaborative team environments.
+```
 Core Competencies:
 Architecture & Data Platform Leadership
 • Enterprise Solution Design & Implementation
@@ -26,6 +27,7 @@ Architecture & Data Platform Leadership
 • Streaming: MSK, Kinesis
 • Security & Governance: Lake Formation
 • Cost Optimization & Best Practices
+```
 
 ## ✍️ Published Blogs
 
